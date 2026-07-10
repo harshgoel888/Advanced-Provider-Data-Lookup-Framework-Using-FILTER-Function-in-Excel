@@ -1,4 +1,4 @@
-# Advanced-Provider-Data-Lookup-Framework-Using-Excel-FILTER
+# Advanced-Provider-Data-Lookup-Framework-Using-FILTER-Function-in-Excel
 
 Overview:
 Healthcare analytics frequently involves datasets with one-to-many relationships, such as providers associated with multiple specialties or specialties containing multiple providers.
